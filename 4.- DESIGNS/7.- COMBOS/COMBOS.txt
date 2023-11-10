@@ -1,0 +1,82 @@
+
+ --- COMBOS ---
+
+# === FAMILIARES === (((
+
+ELEMENTOS:   TAMAÑO:  COMBO:                   PRECIO:
+
+HEISENBERG   20cm     [Family]                 $320
+SKYLER       20cm
+WALTER_JR    20cm
+HOLLY        M
+Papas_Gajo
+
+HEISENBERG   20cm     [Lab]                    $310
+GALE         G
+TYRUS
+GUS
+Papas_Gajo
+
+PINKMAN      20cm     [Dealers]                $310
+COMBO        G
+BADGER       20cm
+Papas_Gajo
+
+HANK         20cm     [D.E.A]                  $340
+S._GOMEZ     G
+MARIE        G
+Papas_Gajo
+
+DON_HECTOR   20cm     [El_Cartel]              $260
+TUCO         20cm
+DON_HELADIO  G
+Papas_Gajo
+
+MIKE         20cm     [Los_Boneless_Hermanos]  $390
+FRING
+TYRUS
+VICTOR
+DON_HELADIO  G
+Papas_Gajo
+
+# )))
+
+# === PERSONALES === (((
+
+ELEMENTOS:  TAMAÑO:  COMBO:                 PRECIO:
+
+HEISENBERG  20cm     [Caravana_de_Cristal]  $190
+PINKMAN     20cm
+Papas_Gajo
+
+SAÚL        20cm     [Llama_a_Saúl]         $250
+HUELL       M
+Francesa
+
+SKYLER      20cm     [Sisters]              $145
+MARIE       C
+Papas_Gajo
+
+HEISENBERG  20cm     [Dad]                  $150
+HOLLY       C
+Papas_Gajo
+
+GUSS        N        [Master]               $135
+MIKE        20cm
+Papas_Gajo
+
+TYRUS      N        [Noob]                 $185
+TOD         C
+WALTER_JR   20cm
+Papas_Gajo
+
+HEISENBERG  20cm     [Lavadero]             $175
+SKYLER      20cm
+Papas_Gajo
+
+WALTER_JR   20cm     [Brothers]             $115
+HOLLY       C
+Papas_Gajo
+
+
+# )))

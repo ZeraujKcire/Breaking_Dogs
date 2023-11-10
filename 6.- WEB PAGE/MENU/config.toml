@@ -1,0 +1,19 @@
+baseURL = "http://example.com/"
+languageCode = "es-mx"
+title = "Breaking Dogs."
+theme = "resto-hugo"
+# copyright = "&copy 2019 Resto Hugo" # HTML tags supported
+# googleAnalytics = "UA-123-45"
+disqusShortname = "breakingdogs"
+
+# Theme specific configuration
+[params]
+logo = "img/LOGO_NEGRO_CORTADO.png"
+enableDisqus = false # enable / disable comments for blog posts
+enableGA = false # enable / disable google analytics
+heroText = "Breaking Dogs"
+footerText = "Breaking Dogs &copy. 2022."
+facebook = "https://facebook.com"
+# twitter = "https://twitter.com"
+instagram = "https://instagram.com"
+

@@ -1,0 +1,31 @@
+
+
+# === MARIE === (((
+1. pepperoni,
+2. salchicha,
+3. pimiento,
+4. tocino.
+# )))
+
+# === COMBO === (((
+1. base de frijoles,
+2. jamón.
+# )))
+
+# === BADGER === (((
+1. salchicha,
+2. tocino.
+# )))
+
+# === JANE === (((
+(Deliciosa mezcla de  quesos)
+1. queso amarillo,
+2. mozzarella,
+3. oaxaca
+# )))
+
+# === CALZONE === (((
+Calzone italiano,
+relleno de tus ingredientes favoritos, acompañado con salsa de tomate italiana
+Piña, jamón, tocino, pepperoni, pastor, etc
+# )))

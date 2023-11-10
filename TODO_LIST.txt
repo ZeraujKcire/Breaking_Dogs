@@ -1,0 +1,144 @@
+
+ === ORGANIZACIÓN INTERNA === (((
+1.  CALDENARIO DE ACTIVIDADES DIARIAS (contiene una tabla 12x1 de 12 horas)
+2.  STOCK ACTUAL DE INSUMOS.
+3.  CALENDARIO SEMANAL DE ACTIVIDADES (contiene los días de compra y días de promoción)
+4.  ESTUDIO DE MERCADO.
+5.  MARKETING.
+-.  LÍNEA DE PRODUCCIÓN PARA PIZZAS.
+7.  DISEÑO DE PRODUCCIÓN DE TODO EL LOCAL. (cuántos metros cuadrados necesitamos?)
+8.  REGISTRO EN PLATAFORMA.
+9.  LOGO BREAKING DOGS.
+10. LOGO AGS.
+11. CONTABIILDAD.
+ )))
+
+ === INSUMOS PRECIOS === (((
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+ )))
+
+ === CÁLCULOS REQUERIDOS === (((
+1. GASTO DE RESURSOS DEL LOCAL.
+2. GASTO DE INSUMOS SEMANAL.
+3. GASTO DE INSUMOS Y SERVICIOS POR UNIDAD.
+4. GANANCIA POR UNIDAD.
+5. 
+6. 
+7. 
+8. 
+ )))
+
+ === DISEÑO === (((
+1. LOGO GENERAL.
+2. LOGO REDES SOCIALES (en forma de círculo)
+3. LOGO HOT-DOGS.
+4. 
+5. 
+ )))
+
+ === JURISDICCIÓN === (((
+1. LEY FEDERAL DE COMERCIO.
+2. REGISTRO DE MARCA.
+3. SOCIEDAD 
+4. 
+5. 
+ )))
+
+ === ESTUDIO === (((
+1. ADMINISTRACIÓN DE EMPRESAS.
+2. GASTRONOMÍA.
+3. MANEJO DE NEGOCIO DE COMIDA.
+4. 
+5. 
+ )))
+
+ === APRENDIZAJE PROCESOS === (((
+1. PIZZAS.
+   1. 
+   2. 
+   3. 
+   4. 
+   5. 
+   6. 
+   7. 
+   8. 
+   9. 
+   10. 
+2. HOT-DOGS.
+   1. 
+   2. 
+   3. 
+   4. 
+   5. 
+   6. 
+   7. 
+   8. 
+   9. 
+   10. 
+3. PRODUCTOS DE POLLO.
+   1. ALITAS.
+   2. BONELESS.
+4. PAPAS.
+ )))
+
+ === PLATAFORMAS === (((
+
+ === FACEBOOK === (((
+
+ )))
+
+ === INSTAGRAM === (((
+
+ )))
+
+ === PÁGINA WEB === (((
+1. Registrar Dominio breakingdogs.com
+2. Crear página web.
+3. 
+4. 
+5. 
+6. 
+7. 
+ )))
+
+ )))
+
+# === COPYRIGHT === (((
+1. LEER LAS LEYES DE COPYRIGHT 2013, 2019, 2020.
+2. IDENTIFICAR LOS PERMISOS NECESARIOS. https://fairuse.stanford.edu/overview/introduction/getting-permission/#identify_the_owner
+3. VER CARTAS DE PERMISO SIMILARES EN INGLÉS.
+4. ESCRIBIR LA CARTA Y MANDARLA A SONY Y VINCE GILLIGAN.
+5. 
+6. 
+7. 
+# )))
